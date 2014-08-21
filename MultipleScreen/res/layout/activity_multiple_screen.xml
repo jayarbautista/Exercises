@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_widget_layout" 
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/showWidget_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_widget" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_layout_options" 
+        android:textSize="20sp"/>
+
+    <Button
+        android:id="@+id/linear_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/linear_layout" />
+
+    <Button
+        android:id="@+id/relative_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/relative_layout" />
+
+    <Button
+        android:id="@+id/listView_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/listview_layout" />
+
+    <Button
+        android:id="@+id/gridView_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gridview_layout" />
+
+</LinearLayout>

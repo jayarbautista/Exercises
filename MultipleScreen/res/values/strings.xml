@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleScreen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_widget_layout">Basic widget layout</string>
+    <string name="show_widget">Show Widget</string>
+    <string name="text_layout_options">Layout Options</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="listview_layout">ListView Layout</string>
+    <string name="gridview_layout">GridView Layout</string>
+    <string name="btn1">Width is match_parent</string>
+    <string name="btn2">Width and Height is wrap_content</string>
+    <string name="btn3">Width and Height is match_parent</string>
+    <string name="text_label_horizontal">Horizontal View</string>
+    <string name="text_label_vertical">Vertical View</string>
+    <string name="reminder">Reminder</string>
+    <string name="done">Done</string>
+    
+
+</resources>
