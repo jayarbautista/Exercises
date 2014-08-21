@@ -246,7 +246,6 @@ int id action_context_bar 0x7f05001d
 int id action_menu_divider 0x7f050016
 int id action_menu_presenter 0x7f050017
 int id action_mode_close_button 0x7f050024
-int id action_settings 0x7f05003e
 int id activity_chooser_view_content 0x7f050025
 int id always 0x7f05000b
 int id beginning 0x7f050011
@@ -261,6 +260,7 @@ int id edit_query 0x7f050030
 int id end 0x7f050013
 int id expand_activities_button 0x7f050026
 int id expanded_menu 0x7f05002c
+int id group1 0x7f050041
 int id home 0x7f050014
 int id homeAsUp 0x7f050005
 int id icon 0x7f05002a
@@ -268,6 +268,12 @@ int id ifRoom 0x7f05000a
 int id image 0x7f050027
 int id listMode 0x7f050001
 int id list_item 0x7f050029
+int id menu_add 0x7f05003e
+int id menu_copy 0x7f050042
+int id menu_delete 0x7f050040
+int id menu_edit 0x7f05003f
+int id menu_exit 0x7f050044
+int id menu_paste 0x7f050043
 int id middle 0x7f050012
 int id never 0x7f050009
 int id none 0x7f050010
@@ -343,6 +349,12 @@ int string action_settings 0x7f0a000f
 int string app_name 0x7f0a000d
 int string expand 0x7f0a0010
 int string hello_world 0x7f0a000e
+int string item_add 0x7f0a0011
+int string item_copy 0x7f0a0014
+int string item_delete 0x7f0a0013
+int string item_edit 0x7f0a0012
+int string item_exit 0x7f0a0016
+int string item_paste 0x7f0a0015
 int style AppBaseTheme 0x7f0b008b
 int style AppTheme 0x7f0b008c
 int style TextAppearance_AppCompat_Base_CompactMenu_Dialog 0x7f0b0063
